@@ -28,4 +28,4 @@ Battle Star - Into the void uses PYGAME module, a module to make game in python 
 - `D` to move `'RIGHT'`
 - `SPACE` to move `'SHOOT'`
 
-## We hope ya'll will like it! 😛
+## We hope y'all will like it! 😛
